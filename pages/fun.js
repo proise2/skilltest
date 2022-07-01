@@ -2,7 +2,7 @@ import Htmlheader from '../components/Htmlheader'
 import Link from 'next/link'
 import styles from '../styles/Question.module.css'
 
-const commits = () => {
+const fun = () => {
   return (
     <div className={styles.container}>
       <Htmlheader title='Fun' />
