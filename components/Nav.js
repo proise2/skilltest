@@ -9,22 +9,23 @@ const Nav = () => {
                 <Link href='/'>Home</Link>
             </li>
             <li>
-                <Link href='/focus'>Focus</Link>
+                <Link href='/focus'>Product Advocate</Link>
             </li>
             <li>
-                <Link href='/goals'>Goals</Link>
+                <Link href='/goals'>Past experiences</Link>
+            </li>
+  <li>
+                <Link href='/redirect'>Using Next.js</Link>
             </li>
             <li>
-                <Link href='/project'>Project</Link>
+                <Link href='/project'>Email Responses</Link>
+            </li>
+          
+            <li>
+                <Link href='/domain'>Recommendations</Link>
             </li>
             <li>
-                <Link href='/redirect'>Redirect</Link>
-            </li>
-            <li>
-                <Link href='/domain'>Domain</Link>
-            </li>
-            <li>
-                <Link href='/commits'>Commit Issue</Link>
+                <Link href='/commits'>Fun</Link>
             </li>
          
         </ul>
