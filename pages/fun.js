@@ -27,7 +27,7 @@ const fun = () => {
           <p>Past this point, I am unsure if we would have logs to give us a clearer picture on why the user is unable to deploy their commits. If there are I would check these to see if we are getting an error message indicating why the user is unable to deploy. I would also check previous tickets for this issue and our internal KB to see if we can determine why the users commits are not deploying on this project. We can also ask the team to see if anyone has seen this previously. We can use google to see if there are any stackoverflow or other types of forums where this issue may have been discussed previously. If we run out of runway in our resources for identifying the issue we should escalate the issue to engineering to see if we can determine the root cause of the issue and determine a fix.</p>
         </li>
       </ul>
-      <div className={styles.link}><Link href='/customerissues'>Lets move on to the next question</Link></div>
+      <div className={styles.link}><Link href='/home'>Back to start</Link></div>
     </div>
   )
 }
