@@ -5,7 +5,7 @@ import styles from '../styles/Question.module.css'
 const product = () => {
   return (
     <div className={styles.container}>
-      <Htmlheader title='Next Quarters Focus' />
+      <Htmlheader title='Product Recommendations' />
       <h2> Imagine that you are the most senior support engineer within a team of 3 people. As the principal, and as platform usage and customer volume grows, you&apos;re helping to determine the focus of the team for the following quarter. From this list, pick the 5 highest prioritized actions and 5 lowest prioritized actions you&apos;d lead the team on. Explain why you chose those prioritization levels. </h2>
       <h3>Top 5 Tasks</h3>
       <ul className={styles.card}>
