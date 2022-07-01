@@ -25,7 +25,7 @@ const Nav = () => {
                 <Link href='/domain'>Recommendations</Link>
             </li>
             <li>
-                <Link href='/commits'>Fun</Link>
+                <Link href='/fun'>Fun</Link>
             </li>
          
         </ul>
