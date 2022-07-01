@@ -53,7 +53,7 @@ const product = () => {
           <p>I feel like this would come up naturally on tickets being submitted to support. While not the most important task on this list, I do think this topic is something support engineers should consider while troubleshooting issues. It is important however that support does not make the customer feel like Vercel offers them no value to their use case, we should be helping them better understand in what way Vercel will help their use case.</p>
         </li>
       </ul>
-      <div className={styles.link}><Link href='/goals'>Lets move on to the next question</Link></div>
+      <div className={styles.link}><Link href='/past'>Lets move on to the next question</Link></div>
     </div>
   )
 }
