@@ -2,7 +2,7 @@ import Htmlheader from '../components/Htmlheader'
 import Link from 'next/link'
 import styles from '../styles/Question.module.css'
 
-const goals = () => {
+const past = () => {
   return (
     <div className={styles.container}>
       <Htmlheader title='Work Goals' />
@@ -15,4 +15,4 @@ const goals = () => {
   )
 }
 
-export default goals
+export default past
