@@ -5,7 +5,7 @@ import styles from '../styles/Question.module.css'
 const commits = () => {
   return (
     <div className={styles.container}>
-      <Htmlheader title='Commit Issues' />
+      <Htmlheader title='Fun' />
       <h2>A user writes in with the following problem: “On our team, GitHub commits by user janedoe@helloworld.com don&apos;t trigger any deployments. Commits by other users work fine. Other projects work fine. Help! What can we do to fix this?” How would you approach debugging this problem? What questions would you ask, either internally or of the user? Write a response which you would send back to this user.</h2>
       <ul className={styles.card_vert}>
         <li>
