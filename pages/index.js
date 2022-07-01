@@ -18,8 +18,8 @@ This portfolio is built with <b>Next.js </b> and will showcase my skill test for
 
 ---
 
-<p>- Twitter <Link href='https://twitter.com/ByeAJ1'> [@byeAJ1] </a>
-<p>- GitHub <Link href='https://github.com/proise2'>[@proise2]</a>
+<p>- Twitter <Link href='https://twitter.com/ByeAJ1'> @byeAJ1 </a>
+<p>- GitHub <Link href='https://github.com/proise2'>@proise2</a>
 <p>- Email <a href = "mailto: dawnjama2@gmail.com">dawnjama2@gmail.com</a>
                     
                    
