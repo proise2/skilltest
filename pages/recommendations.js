@@ -2,7 +2,7 @@ import Htmlheader from '../components/Htmlheader'
 import Link from 'next/link'
 import styles from '../styles/Question.module.css'
 
-const domain = () => {
+const recommendations = () => {
   return (
     <div className={styles.container}>
       <Htmlheader title='Custom Domain' />
@@ -21,4 +21,4 @@ const domain = () => {
   )
 }
 
-export default domain
+export default recommendations
