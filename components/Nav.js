@@ -9,20 +9,20 @@ const Nav = () => {
                 <Link href='/'>Home</Link>
             </li>
             <li>
-                <Link href='/focus'>Product Advocate</Link>
+                <Link href='/product'>Product Advocate</Link>
             </li>
             <li>
-                <Link href='/goals'>Past experiences</Link>
+                <Link href='/past'>Past experiences</Link>
             </li>
   <li>
                 <Link href='/redirect'>Using Next.js</Link>
             </li>
             <li>
-                <Link href='/project'>Email Responses</Link>
+                <Link href='/email'>Email Responses</Link>
             </li>
           
             <li>
-                <Link href='/domain'>Recommendations</Link>
+                <Link href='/recommendations'>Recommendations</Link>
             </li>
             <li>
                 <Link href='/fun'>Fun</Link>
