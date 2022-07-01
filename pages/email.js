@@ -39,7 +39,7 @@ const email = () => {
           <p>With all of this said, I am not sure it would be a good idea to inform our customers that there is a deadline to add 2FA and that they must add this to their account, this does not seem like it would be the best approach.</p>
         </li>
       </ul>
-      <div className={styles.link}><Link href='/redirect'>Lets move on to the next question</Link></div>
+      <div className={styles.link}><Link href='/recommendations'>Lets move on to the next question</Link></div>
     </div>
   )
 }
