@@ -7,13 +7,12 @@ export default function Home() {
     <div className={styles.home}>
       <Htmlheader title='Skills Test' />
       <h1>Dawn Jama</h1>
-      <p>Skill test for product advocate role</p>
+  <p> <h3>Hi, I'm a former teacher and aspiring product advocate. </h3> </P>
+<p>
+This portfolio is built with <b>Next.js </b> and will showcase my skill test for a product advocate role.</p>
 
 <img src=".jpg" loading="eager" alt="Dawn Jama Profile Photo" class="image">
 
-Hi, I'm a former teacher and aspiring product advocate. 
-
-This portfolio is built with **Next.js** and will showcase my skill test for a product advocate role.
 
  <Link href='/product'>Lets Get Started</Link>
 
