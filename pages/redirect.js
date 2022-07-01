@@ -16,7 +16,7 @@ const redirect = () => {
       <Htmlheader title='Redirect' />
       <h2>Push the button below to redirect from the route /redirect</h2>
       <button onClick={onClick}>Hey...push this button...</button>
-      <div className={styles.link}><Link href='/domain'>Lets move on to the next question</Link></div>
+      <div className={styles.link}><Link href='/email'>Lets move on to the next question</Link></div>
     </div>
   )
 }
