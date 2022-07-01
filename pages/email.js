@@ -2,7 +2,7 @@ import Htmlheader from '../components/Htmlheader'
 import Link from 'next/link'
 import styles from '../styles/Question.module.css'
 
-const project = () => {
+const email = () => {
   return (
     <div className={styles.container}>
       <Htmlheader title='Quarterly Project' />
@@ -44,4 +44,4 @@ const project = () => {
   )
 }
 
-export default project
+export default email
