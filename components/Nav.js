@@ -26,12 +26,7 @@ const Nav = () => {
             <li>
                 <Link href='/commits'>Commit Issue</Link>
             </li>
-            <li>
-                <Link href='/customerissues'>Common Issues</Link>
-            </li>
-            <li>
-                <Link href='/improvements'>Improvements</Link>
-            </li>
+         
         </ul>
     </nav>
   )
