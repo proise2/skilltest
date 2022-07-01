@@ -5,7 +5,7 @@ import styles from '../styles/Question.module.css'
 const email = () => {
   return (
     <div className={styles.container}>
-      <Htmlheader title='Quarterly Project' />
+      <Htmlheader title='Email Recommendations' />
       <h2>Imagine you are tasked with the following quarterly project: “Build a process for ensuring 90% of our paid customers add 2FA (Two-Factor Authentication)”. Spend 10 minutes outlining how you would approach this directive and execute on it.</h2>
       <ul className={styles.card_vert}>
         <li>
