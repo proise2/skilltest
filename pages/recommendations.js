@@ -16,7 +16,7 @@ const recommendations = () => {
       <p>Next, enter the domain you want to add to your project. Note, that if the domain is being used by another vercel account, you may be prompted to verify access to the domain. After the domain has been added, you will be prompted to configure it based on the type of domain it is. Apex domains (example.com) can be configured with an A record, while subdomains (docs.example.com) can be configured with a CNAME record. Both types can be configured using the Nameservers method. When setting the A record on an apex domain there are help links to help you setting the A record on your DNS provider (GoDaddy). Additionally, there is also a help link to assist in setting the CNAME record for a subdomain with your DNS provider (GoDaddy). If you choose to use the Nameserver option for either of the domain types, you will be provided the Vercel nameservers to copy and use with your DNS.</p>
       <p>Once the domain has been properly configured, the card status of the domain will reflect the change.</p>
       <p>Please let me know if you run into any issues setting up the domain or if you have any questions about this process.</p>
-      <div className={styles.link}><Link href='/commits'>Lets move on to the next question</Link></div>
+      <div className={styles.link}><Link href='/fun'>Lets have some fun</Link></div>
     </div>
   )
 }
