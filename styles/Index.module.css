@@ -1,0 +1,29 @@
+.home {
+    padding: 0 10px;
+}
+
+.home h1, .home p {
+    padding: 5px;
+    margin: 10px 5px;
+}
+
+.home a {
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    border: 2px solid #000;
+    border-radius: 0.25em;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+}
+.home a:hover {
+    background: #fff;
+    color: #000;
+}
+
+.home a:active {
+    transform: scale(0.98);
+}
