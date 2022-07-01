@@ -18,9 +18,9 @@ This portfolio is built with <b>Next.js </b> and will showcase my skill test for
 
 ---
 
-- Twitter [@byeAJ1](https://twitter.com/ByeAJ1)
-- GitHub [@proise2](https://github.com/proise2)
-- Email dawnjama2@gmail.com
+<p>- Twitter [@byeAJ1](https://twitter.com/ByeAJ1)
+<p>- GitHub [@proise2](https://github.com/proise2)
+<p>- Email dawnjama2@gmail.com
                     
                    
       <Link href='/product'>Lets Get Started</Link>
