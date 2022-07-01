@@ -8,7 +8,7 @@ export default function Home() {
       <Htmlheader title='Skills Test' />
       <h1>Dawn Jama</h1>
       <p>Skill test for product advocate role</p>
-      <Link href='/focus'>Lets Get Started</Link>
+      <Link href='/product'>Lets Get Started</Link>
     </div>
   )
 }
