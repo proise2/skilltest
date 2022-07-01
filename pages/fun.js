@@ -32,4 +32,4 @@ const fun = () => {
   )
 }
 
-export default commits
+export default fun
