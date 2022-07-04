@@ -9,7 +9,7 @@ export default function Home() {
       <h1>Hi, My name Is Dawn Jama</h1>
       <p>I'm a former teacher and aspiring product advocate.</p>
       <p>Here you will find my attempt at using Vercel to create a project.</p>
-      <p> Using the links below to see my answers for the product adovcate skilltest for Vercel.</p>
+      <p>Use the links below and the navigation at the top to find my answers for the product advocate skilltest.</p>
       <Link href='/product1'>Lets Get Started</Link>
     </div>
   )
