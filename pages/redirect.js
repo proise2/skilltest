@@ -6,7 +6,7 @@ const redirect = () => {
 
   const onClick = () => {
     console.log('clicked')
-    if (confirm("Do you want to redirect to Vercel.com?") == true) {
+    if (confirm("Hello world") == true) {
       window.open('https://vercel.com', '_blank');
     }
   }
@@ -15,7 +15,7 @@ const redirect = () => {
     <div className={styles.container}>
       <Htmlheader title='Redirect' />
       <h2>Push the button below to redirect from the route /redirect</h2>
-      <button onClick={onClick}>Hey...push this button...</button>
+      <button onClick={onClick}>Click me</button>
       <div className={styles.link}><Link href='/email'>Lets move email recommendations</Link></div>
     </div>
   )
