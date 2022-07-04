@@ -22,7 +22,7 @@ to host. I would like more information about the Enterprise option.</p>
  </li>
 <li><p>There are a few things to consider when choosing a hosting provider for your next project. Vercel has a lot of great features, but it's important to make sure that the provider has the resources and capabilities to support your project. </p>
 
-<>Next.js is a great choice for a new site - it's easy to use and provides a lot of flexibility. Vercel is also a great option for hosting Next.js projects, as we have the resources and experience to support them.</p>
+<p>Next.js is a great choice for a new site - it's easy to use and provides a lot of flexibility. Vercel is also a great option for hosting Next.js projects, as we have the resources and experience to support them.</p>
 </li>   
 </ul>
 
