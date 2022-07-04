@@ -4,9 +4,10 @@ import styles from '../styles/Question.module.css'
 
 const product = () => {
   return (
-    <div className={styles.container}>
-      <Htmlheader title='Product Recommendations' />
-      <h2>Things a product advocate would do</h2>
+    
+    <Htmlheader title='Product Recommendations' />
+    
+    <h2>Things a product advocate would do.</h2>
 <p>Here are the things a product advocate at Vercel might do in no particular order. List the 3 things you
 would be most interested in doing and the 3 you would be least interested in doing.</p>
    
@@ -25,8 +26,8 @@ would be most interested in doing and the 3 you would be least interested in doi
 <P>Enablement meetings are important because they provide an opportunity for you to learn about new products and sales techniques. By attending these meetings, you can stay up-to-date on the latest changes and developments in your industry. This will help you to better serve your customers and sell your products.</P>       
 </li>
       </ul>
+
       <h3>Bottom 3 Tasks</h3>
-      <ul className={styles.card}>
         <li>
           <h4>Create Salesforce reports to keep track of data pertinent to the team or your stats</h4>
           <p>Salesforce reporting can seem like a mundane task, but it's important to keep track of your data to ensure your team is meeting its goals. By creating reports that are specific to your needs, you can quickly and easily see how your team is performing.</p>
