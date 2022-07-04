@@ -8,7 +8,7 @@ export default function Home() {
       <Htmlheader title='Skills Test' />
       <h1>Hello My Name Is Dawn Jama</h1>
       <p>For your consideration, please follow me through the following questions and scenerios.</p>
-      <Link href='/product'>Lets Get Started</Link>
+      <Link href='/product1'>Lets Get Started</Link>
     </div>
   )
 }
