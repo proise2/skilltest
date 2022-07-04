@@ -37,9 +37,7 @@ would be most interested in doing and the 3 you would be least interested in doi
         <li>
           <h4>Research the headquarters & ownership of a company to determine who to route it to</h4>
           <p>There are a few reasons why researching the headquarters ownership of a company to determine who to route it to may not be of interest. </p>
-
 <p>First, the ownership structure of a company may not be indicative of who is actually responsible for making decisions or handling customer inquiries. </p>
-
 <p>Second, even if the ownership structure does indicate who is responsible for customer inquiries, the company may have a process in place for routing customer inquiries to the correct department regardless of who the owner is.</p>
         </li>
         <li>
