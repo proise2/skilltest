@@ -18,13 +18,14 @@ const product1 = () => {
         </li>
         <li>
           <h4>Hop on a Zoom call to qualify a prospect or educate them about Vercel</h4>
-          <p>There are a few reasons it's important to hop on a Zoom call to qualify a prospect or educate them about Vercel. 
+          <p>There are a few reasons it's important to hop on a Zoom call to qualify a prospect or educate them about Vercel. </p>
 <p>First, it's a great way to get to know the prospect and see if they're a good fit for Vercel. </p> 
 <p>Second, it's a great way to educate prospects on the features and benefits of Vercel so they can make an informed decision about whether or not to sign up.</p>
         </li>
         <li>
           <h4>Attend weekly enablement meetings to level up your product and sales knowledge</h4>
-          <p>Enablement meetings are important because they provide an opportunity for you to learn about new products and sales techniques. By attending these meetings, you can stay up-to-date on the latest changes and developments in your industry. </p>
+          <p>Enablement meetings are important because they provide an opportunity for you to learn about new products and sales techniques. </p>
+<p> By attending these meetings, you can stay up-to-date on the latest changes and developments in your industry. </p>
 <p> This will help you to better serve your customers and sell your products.</p>
         </li>
         </ul>
