@@ -7,7 +7,7 @@ const product = () => {
     
     <Htmlheader title='Product Recommendations' />
     
-    <h2>Things a product advocate would do.</h2>
+    <h2>Things product advocates would do.</h2>
 <p>Here are the things a product advocate at Vercel might do in no particular order. List the 3 things you
 would be most interested in doing and the 3 you would be least interested in doing.</p>
    
