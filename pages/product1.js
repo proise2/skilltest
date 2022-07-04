@@ -6,7 +6,8 @@ const product1 = () => {
   return (
     <div className={styles.container}>
       <Htmlheader title='Next Quarters Focus' />
-      <h2> Imagine that you are the most senior support engineer within a team of 3 people. As the principal, and as platform usage and customer volume grows, you&apos;re helping to determine the focus of the team for the following quarter. From this list, pick the 5 highest prioritized actions and 5 lowest prioritized actions you&apos;d lead the team on. Explain why you chose those prioritization levels. </h2>
+      <h2> Things a Product Advocate Might Do: </h2>
+<p>Here are the things a product advocate at Vercel might do in no particular order. List the 3 things you would be most interested in doing and the 3 you would be least interested in doing </p>
       <h3>Top 3 Tasks</h3>
       <ul className={styles.card}>
         <li>
