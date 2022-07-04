@@ -2,7 +2,7 @@ import Htmlheader from '../components/Htmlheader'
 import Link from 'next/link'
 import styles from '../styles/Question.module.css'
 
-const focus = () => {
+const product1 = () => {
   return (
     <div className={styles.container}>
       <Htmlheader title='Next Quarters Focus' />
@@ -58,4 +58,4 @@ const focus = () => {
   )
 }
 
-export default focus
+export default product1
