@@ -6,9 +6,9 @@ export default function Home() {
   return (
     <div className={styles.home}>
       <Htmlheader title='Skills Test' />
-      <h1>Hello My Name Is Nicholas Houston</h1>
+      <h1>Hello My Name Is Dawn Jama</h1>
       <p>For your consideration, please follow me through the following questions and scenerios.</p>
-      <Link href='/focus'>Lets Get Started</Link>
+      <Link href='/product'>Lets Get Started</Link>
     </div>
   )
 }
