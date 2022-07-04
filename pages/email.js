@@ -20,6 +20,9 @@ const email = () => {
 <P>How can we help you: New site launching soon using Next.js and we are thinking about using Vercel
 to host. I would like more information about the Enterprise option.
  </li>
+<li><P>There are a few things to consider when choosing a hosting provider for your next project. Vercel has a lot of great features, but it's important to make sure that the provider has the resources and capabilities to support your project. </P>
+
+<P>Next.js is a great choice for a new site - it's easy to use and provides a lot of flexibility. Vercel is also a great option for hosting Next.js projects, as we have the resources and experience to support them.</P>
       </ul>
 <p>
       <div className={styles.link}><Link href='/recommendations'>Lets move on to the next question</Link></div>
