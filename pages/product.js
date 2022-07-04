@@ -6,10 +6,11 @@ const product = () => {
   return (
     <div className={styles.container}>
       <Htmlheader title='Product Recommendations' />
-      <h2> 1. Things a Product Advocate Might Do: </h2>
+      <h2>Things a product advocate would do</h2>
 <p>Here are the things a product advocate at Vercel might do in no particular order. List the 3 things you
 would be most interested in doing and the 3 you would be least interested in doing.</p>
-      <h3>Top 3 Tasks</h3>
+   
+<h3>Top 3 Tasks</h3>
       <ul className={styles.card}>
         <li>
           <h4>Write direct and concise emails that dig into a prospect's pain points and needs</h4>
