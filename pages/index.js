@@ -7,9 +7,8 @@ export default function Home() {
     <div className={styles.home}>
       <Htmlheader title='Skills Test' />
       <h1>Dawn Jama</h1>
-  <p> Hi, I'm a former teacher and aspiring product advocate.</P>
-<p>
-This portfolio is built with <b>Next.js </b> and will showcase my skill test for a product advocate role.</p>
+  <p> Hi, I'm a former teacher and aspiring product advocate.</p>
+<p> This portfolio is built with <b>Next.js </b> and will showcase my skill test for a product advocate role.</p>
 
 
 
