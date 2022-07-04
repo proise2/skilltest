@@ -30,7 +30,7 @@ const product1 = () => {
         </li>
         <li>
           <h4>Evaluate an application to help determine if it's commercial or not</h4>
-          <p>While I believe that this is important, I did not think this task was the most important on the list to be done in a quarter. Though I did not deem it most important, support engineers should always report potential bugs they find on the github repos, generally I would think these would be reported by customers on a ticket the engineer is working on anyways.</p>
+          <p>here are a few reasons why evaluating an application to help determine if it's commercial or not is one of the more least interesting tasks. First, many applications can be used for both commercial and non-commercial purposes. The purpose of an application doesn't always reflect how it will be used.</p>
         </li>
         <li>
           <h4>Research the headquarters & ownership of a company to determine who to route it to</h4>
