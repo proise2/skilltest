@@ -23,7 +23,6 @@ would be most interested in doing and the 3 you would be least interested in doi
           <h4>Attend weekly enablement meetings to level up your product and sales knowledge</h4>
 <P>Enablement meetings are important because they provide an opportunity for you to learn about new products and sales techniques. By attending these meetings, you can stay up-to-date on the latest changes and developments in your industry. This will help you to better serve your customers and sell your products.</P>       
 </li>
-        </li>
       </ul>
       <h3>Bottom 3 Tasks</h3>
       <ul className={styles.card}>
