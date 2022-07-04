@@ -44,4 +44,4 @@ const product = () => {
   )
 }
 
-export default product
+export default product 
