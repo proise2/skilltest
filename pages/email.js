@@ -26,7 +26,7 @@ to host. I would like more information about the Enterprise option.</p>
 </li>   
 </ul>
 
-      <div className={styles.link}><Link href='/recommendations'>Lets move on to the next question</Link>
+      <div className={styles.link}><Link href='/recommendations'>Lets move on to the next question</Link></div>
     </div>
   )
 }
