@@ -39,7 +39,7 @@ const product1 = () => {
           <p>Second, even if the ownership structure does indicate who is responsible for customer inquiries, the company may have a process in place for routing customer inquiries to the correct department regardless of who the owner is.</p>
         </li>
         </ul>
-      <div className={styles.link}><Link href='/goals'>Lets move on to the next question</Link></div>
+      <div className={styles.link}><Link href='/past'>Lets move on to the next question</Link></div>
     </div>
   )
 }
