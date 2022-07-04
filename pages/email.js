@@ -8,10 +8,7 @@ const email = () => {
       <Htmlheader title='Email Recommendations' />
       <h2>Practice Email Responses</h2>
       <ul className={styles.card_vert}>
-        <li>
-          <p>Please include one email response for each inquiry, just as if you were responding to a customer.</p>
-        </li>
-        <li>
+               <li>
 <p><b>Please include one email response for each inquiry, just as if you were responding to a customer.</b></p>
 <p><b>Sales Inquiry:</b> Do I need Enterprise? </p>
 <p><b>Subject:</b> Sales Lead for barnesandnoble.com</p>
