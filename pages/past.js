@@ -15,7 +15,8 @@ const past = () => {
       <h4> Which (non-Vercel) technical or sales article, guide or lightning talk left the biggest positive impression on you? Why? (and please provide the link) </h4>
       <p> I really enjoyed a technical talk by Rich Hickey called "Simple Made Easy." </p>
       <p> He talked about how we tend to overcomplicate things and how we can make our lives easier by keeping things simple. </p>
-      <p> I found his talk motivating and inspiring. </p>
+      <p>  Simplicity is often misunderstood as meaning "easy," when in fact it is the opposite of "complex." The benefits of simplicity include flexibility, ease of understanding, and ease of debugging. Hickey recommends choosing simple tools and writing simple code in order to achieve simplicity. </p>
+     <p> I found his talk motivating and inspiring because it made me want to simplify my life. Now that I am tackling the possibility of being considered as a product advocate, I want to focus on the essentials and remind myself I can learn. </p>
     <p>  <div className={styles.link}><Link href='https://www.automasean.blog/simple-made-easy/'>Simple Made Easy blog</Link></div> </p>
     <p>  <div className={styles.link}><Link href='/redirect'>Lets try using Next.js</Link></div> </p>
     </div>
