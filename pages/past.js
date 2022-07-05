@@ -8,7 +8,7 @@ const past = () => {
     <div className={styles.container}>
       <Htmlheader title='Past' />
       <h2> Reflection on past experience:</h2>
-      <p><h4> <b>In your next role, what are you looking to learn or do more of? </b></p> </h4>
+      <p><h4><b>In your next role, what are you looking to learn or do more of? </b></h4></p>
       <p> I want to learn how to better identify and approach potential clients and how to build rapport with them. I'm looking to learn more about the products that I'm selling and how they can be used in different industries.</p>  
       <p> I'm also looking to learn how to: </p>
        <p> Deliver presentations to a wide range of audiences </p>
