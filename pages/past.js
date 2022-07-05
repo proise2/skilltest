@@ -15,12 +15,12 @@ const past = () => {
       <p> Identify opportunities for growth in the market and with specific customers </p>
       <p>The opportunity to create a clear customer journey map to help on the discussion </p>
       <p>I also want to continue developing my sales skills and learn more about how to close deals.</p>
-      <p><h4><b> b. Which (non-Vercel) technical or sales article, guide or lightning talk left the biggest positive impression on you? Why? (and please provide the link) </b></p> </h4>
+      <p><h4><b> Which (non-Vercel) technical or sales article, guide or lightning talk left the biggest positive impression on you? Why? (and please provide the link) </b></p> </h4>
 <p>I really enjoyed a technical talk by Rich Hickey called "Simple Made Easy." </p>
       <p>He talked about how we tend to overcomplicate things and how we can make our lives easier by keeping things simple. </p>
       <p>I found his talk motivating and inspiring. </p>
-      <div className={styles.link}><Link href='https://www.automasean.blog/simple-made-easy/'>Simple Made Easy blog</Link></div>
-      <div className={styles.link}><Link href='/redirect'>Lets try using Next.js</Link></div>
+    <p>  <div className={styles.link}><Link href='https://www.automasean.blog/simple-made-easy/'>Simple Made Easy blog</Link></div> </p>
+    <p>  <div className={styles.link}><Link href='/redirect'>Lets try using Next.js</Link></div> </p>
     </div>
   )
 }
